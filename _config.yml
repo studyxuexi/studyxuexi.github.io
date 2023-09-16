@@ -1,4 +1,4 @@
-title: Chintsai's Blog
+title: 学习君Study
 subtitle: It's never too old to learn.
 description: >- # this means to ignore newlines until "baseurl:"
   It's never too old to learn.
@@ -25,11 +25,11 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: Chintsai Hwo
-author_bio: Hi, my name is Chintsai Hwo.
+author: 学习君Study
+author_bio: 学习君Study
 author_email: "jcglqmoyx@gmail.com"
-author_location: Canada
-author_website_url: "https://jcglqmoyx.github.io"
+author_location: China
+author_website_url: "https://studyxuexi.github.io"
 typewrite-text: It's never too old to learn.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
@@ -71,14 +71,9 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: ChintsaiHwo
-github_username:  jcglqmoyx
-facebook_username: ChintsaiHwo
-linkedin_username: chintsai-hwo-8451b4144
+github_username: studyxuexi 
 # behance_username: johndoe
-instagram_username: chintsaihwo
 # medium_username: johndoe
-telegram_username: jcglqmoyx
 # dribbble_username: johndoe
 # flickr_username: johndoe
 
