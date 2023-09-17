@@ -4,10 +4,10 @@ title:  "词义辨析: wand, wend"
 # summary: "Learn how to add categories in posts"
 author: jcglqmoyx
 date: '2023-09-17 08:35:23 +0800'
-category: ['词义辨析']
-tags: 词义辨析
+category: ['words']
+tags: words
 thumbnail: /assets/img/posts/english.png
-keywords: 词义辨析
+keywords: words
 usemathjax: false
 permalink: /blog/wand-and-wend/
 ---
